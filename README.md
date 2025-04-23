@@ -147,8 +147,7 @@ To contribute to the development of next-generation medical imaging systems by l
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
 
 <!-- GitHub Streak -->
-![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&" alt="souravbasakshuvo")
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
 
 ---
 
