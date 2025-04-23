@@ -148,16 +148,6 @@ To work in an energetic environment where I can leverage my various skills in **
 
 ---
 
-### 🌐 **Connect with Me**
-
-- **Email**: [sourav.basak.kuet.bme@gmail.com](mailto:sourav.basak.kuet.bme@gmail.com)
-- **LinkedIn**: [Sourav Basak Shuvo](https://linkedin.com/in/sourav-basak-shuvo)
-- **Kaggle**: [SouravBasakShuvo](https://kaggle.com/souravbasakshuvo)
-- **GitHub**: [souravbasakshuvo](https://github.com/souravbasakshuvo)
-- **Personal Website**: [souravbasak-shuvo](https://sites.google.com/view/sourav-basak-shuvo)
-
----
-
 ### 🔧 **Languages and Tools**
 
 #### **Programming Languages**:
@@ -195,5 +185,13 @@ My future research will delve into enhancing **biomedical data interoperability*
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
 
 ---
+### 🌐 **Connect with Me**
 
+- **Email**: [sourav.basak.kuet.bme@gmail.com](mailto:sourav.basak.kuet.bme@gmail.com)
+- **LinkedIn**: [Sourav Basak Shuvo](https://linkedin.com/in/sourav-basak-shuvo)
+- **Kaggle**: [SouravBasakShuvo](https://kaggle.com/souravbasakshuvo)
+- **GitHub**: [souravbasakshuvo](https://github.com/souravbasakshuvo)
+- **Personal Website**: [souravbasak-shuvo](https://sites.google.com/view/sourav-basak-shuvo)
+
+---
 Feel free to explore my repositories, connect with me, or get in touch for potential collaborations. I am always open to learning, sharing knowledge, and contributing to innovative research and projects in **Biomedical Engineering** and **AI** for healthcare.
