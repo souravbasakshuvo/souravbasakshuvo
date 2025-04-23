@@ -102,11 +102,11 @@ To contribute to the development of next-generation medical imaging systems by l
 
 ### 🛠️ **Technical Skills**
 
-- **Programming Languages**: Python, MATLAB, C/C++
-- **Deep Learning Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
-- **Medical Image Processing**: OpenCV, SimpleITK, ImageJ
-- **Tools**: Simulink, AutoCAD, COMSOL, SolidWorks
-- **Others**: LaTeX, Git, Adobe Photoshop & Illustrator
+- **Deep Learning**: CNNs, LSTMs, Hybrid Models
+- **Medical Image Processing**: Segmentation, 3D Reconstruction, MRI Reconstruction
+- **AI in Healthcare**: Disease Detection, Computational Imaging
+- **Bioinformatics**: Combining Machine Learning with Biological Data
+- **Research & Development**: Domain Adaptation, Multi-modal Data Analysis
 
 ---
 
@@ -114,7 +114,7 @@ To contribute to the development of next-generation medical imaging systems by l
 
 - **Python for Everybody Specialization** (University of Michigan, Coursera) – 2020
 - **Project Management Certificate** (Google, Coursera) – 2020
-- **Full-day Technical Workshop on Biomaterials Based Wet Lab** (KUET, 2022)
+- **Full-day Technical Workshop on Biomaterials Based Wet Lab** (BUET, 2022)
 
 ---
 
@@ -145,7 +145,10 @@ To contribute to the development of next-generation medical imaging systems by l
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
+
 
 ---
 
@@ -157,7 +160,7 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ---
 
-### 🛠️ **Languages and Tools**
+### 🔧 **Languages and Tools**
 
 #### **Programming Languages**:
 - Python, MATLAB, C/C++
@@ -165,14 +168,14 @@ My future research will delve into enhancing **biomedical data interoperability*
 #### **Deep Learning Frameworks**:
 - TensorFlow, PyTorch, Keras, Scikit-learn
 
-#### **Medical Image Processing**:
+#### **Medical Image Processing Tools**:
 - OpenCV, SimpleITK, ImageJ
 
-#### **Tools & Software**:
-- Simulink, AutoCAD, COMSOL, SolidWorks
+#### **Development Tools**:
+- Git, LaTeX, Adobe Photoshop, Adobe Illustrator
 
-#### **Others**:
-- LaTeX, Git, Adobe Photoshop, Adobe Illustrator
+#### **Software & Platforms**:
+- Simulink, AutoCAD, COMSOL, SolidWorks
 
 ---
 
