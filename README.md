@@ -113,7 +113,6 @@ To contribute to the development of next-generation medical imaging systems by l
 ### 🧑‍🏫 **Training & Certifications**
 
 - **Python for Everybody Specialization** (University of Michigan, Coursera) – 2020
-- **Project Management Certificate** (Google, Coursera) – 2020
 - **Full-day Technical Workshop on Biomaterials Based Wet Lab** (BUET, 2022)
 
 ---
@@ -121,13 +120,15 @@ To contribute to the development of next-generation medical imaging systems by l
 ### 🏆 **Awards & Achievements**
 
 - **Dean’s Award** (3 times): 2018-2022  
+- **Technical Scholarship** (4 consecutive times): 2019-2023  
 - **IEEE YESIST12 2023 – Finalist**  
 - **BME Indoor 2022 – Chess Champion**  
 - **Intra-University Innovative Idea & Project Competition 2022 – 2nd Runner-up**  
 - **National STEM Competition 2021 – Finalist**  
-- **National High School Programming Contest 2017 – 11th Position**  
-- **General Grade Scholarship** (JSC Exam, 2013)  
-- **Talent Pool Scholarship** (PSC Exam, 2010)
+- **National High School Programming Contest 2017 (Regional)** - Position: 11th (Mymensingh Region)  
+- **General Grade Scholarship** in JSC Exam (2013)  
+- **Talent Pool Grade Scholarship** in PSC Exam (2010)
+
 
 ---
 
@@ -138,24 +139,6 @@ To contribute to the development of next-generation medical imaging systems by l
 - **Kaggle**: [SouravBasakShuvo](https://kaggle.com/souravbasakshuvo)
 - **GitHub**: [souravbasakshuvo](https://github.com/souravbasakshuvo)
 - **Personal Website**: [souravbasak-shuvo](https://sites.google.com/view/sourav-basak-shuvo)
-
----
-
-### 📊 **GitHub Stats**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
-
----
-
-### 📚 **Research Contributions and Future Vision**
-
-I am deeply committed to leveraging **artificial intelligence** and **deep learning** to **transform healthcare**. My current focus is on **cancer detection** and improving diagnostic tools using **AI-based medical imaging systems**. I aim to continue exploring **domain adaptation**, **multi-modal image analysis**, and **deep learning frameworks** to develop **robust AI solutions** that can significantly reduce diagnosis time and increase accuracy in **clinical settings**.
-
-My future research will delve into enhancing **biomedical data interoperability**, utilizing **AI models** for **disease prediction**, and **developing intelligent diagnostic tools** that can scale in resource-limited settings.
 
 ---
 
@@ -175,6 +158,24 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 #### **Software & Platforms**:
 - Simulink, AutoCAD, COMSOL, SolidWorks
+
+---
+
+### 📚 **Research Contributions and Future Vision**
+
+I am deeply committed to leveraging **artificial intelligence** and **deep learning** to **transform healthcare**. My current focus is on **cancer detection** and improving diagnostic tools using **AI-based medical imaging systems**. I aim to continue exploring **domain adaptation**, **multi-modal image analysis**, and **deep learning frameworks** to develop **robust AI solutions** that can significantly reduce diagnosis time and increase accuracy in **clinical settings**.
+
+My future research will delve into enhancing **biomedical data interoperability**, utilizing **AI models** for **disease prediction**, and **developing intelligent diagnostic tools** that can scale in resource-limited settings.
+
+---
+
+### 📊 **GitHub Stats**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=light)
 
 ---
 
