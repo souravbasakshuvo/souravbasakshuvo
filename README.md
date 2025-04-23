@@ -143,9 +143,9 @@ To contribute to the development of next-generation medical imaging systems by l
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo)
 
 ---
 
@@ -157,10 +157,22 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ---
 
-### ⚡ **Languages and Tools**
+### 🛠️ **Languages and Tools**
 
-![Languages and Tools](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
-- **Arduino**, **MATLAB**, **Python**, **Scikit-learn**, **TensorFlow**, **PyTorch**, **LaTeX**, **Photoshop**, and many more!
+#### **Programming Languages**:
+- Python, MATLAB, C/C++
+
+#### **Deep Learning Frameworks**:
+- TensorFlow, PyTorch, Keras, Scikit-learn
+
+#### **Medical Image Processing**:
+- OpenCV, SimpleITK, ImageJ
+
+#### **Tools & Software**:
+- Simulink, AutoCAD, COMSOL, SolidWorks
+
+#### **Others**:
+- LaTeX, Git, Adobe Photoshop, Adobe Illustrator
 
 ---
 
