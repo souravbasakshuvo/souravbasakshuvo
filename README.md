@@ -16,87 +16,103 @@ I am passionate about **AI-driven medical imaging** systems, specifically focusi
 
 ### 🎯 **Objective**
 
-To contribute to the development of next-generation medical imaging systems by leveraging my skills in **Biomedical Engineering**, **AI**, **Signal/Image Processing**, and **Deep Learning**. I am keen on **improving healthcare systems**, focusing on medical image analysis, disease detection, and the application of AI to enhance patient outcomes.
+To work in an energetic environment where I can leverage my various skills in **AI**, **signal/image processing**, **biomedical engineering**, and contribute towards developing next generation **medical imaging systems**.
+
 
 ---
 
 ### 🧠 **Research Interests**
 
-- **Medical Image Processing**: Segmentation, 3D Reconstruction, MRI Reconstruction
-- **Deep Learning**: CNNs, LSTMs, Hybrid Models
-- **Disease Detection**: Using AI and ML in diagnostics
-- **Bioinformatics**: Combining machine learning with biological data
-- **AI in Healthcare**: Enhancing diagnostic tools through artificial intelligence
-- **Domain Adaptation**: Bridging the gap between different image datasets
-- **Computational Imaging**: Advanced methods for extracting meaningful information from medical images
+- **Medical Image Processing**, **Segmentation**, **3D Reconstruction**, **Domain Adaptation**, **MRI Reconstruction**, **Multi-modal Image Analysis**, **Computational Imaging**, **Machine Learning**, **Deep Learning**, **Disease Detection**, **Signal Processing**, **Bioinformatics**
 
 ---
 
 ### 🎓 **Education**
 
-#### **Khulna University of Engineering and Technology (KUET)** — *B.Sc. in Biomedical Engineering*  
-**Nov 2018 – Feb 2024**  
-**CGPA**: 3.77/4.00 (Ranked 5th in merit)  
-**Thesis**: *“Gallbladder Cancer Classification using Parallel Transfer Learning with Multi-model Feature Fusion and LSTM”*  
-*Achieved 99.37% accuracy in a hybrid framework combining transfer learning and LSTM for gallbladder cancer classification.*
-
-**U.S. Equivalence**:  
-- **Degree**: Bachelor Degree in Biomedical Engineering  
-- **Grade Average**: 3.91/4.00 (evaluated by Educational Credential Evaluators (ECE))
+- **Khulna University of Engineering and Technology**  
+  *Khulna, Bangladesh*  
+  **Bachelor of Science in Biomedical Engineering**  
+  Nov 11, 2018 -- Feb 27, 2024  
+  **CGPA**: 3.77/4.00 (80.60%) [Junior/Senior GPA: 3.80] (Ranked 5th in overall merit position)  
+  Evaluated by Educational Credential Evaluators (ECE) on December 30, 2024  
+  **U.S. Equivalence**: Bachelor Degree, major area of study: Biomedical Engineering, Grade Average: 3.91/4.00  
+  **UG Thesis**: “Gallbladder Cancer Classification using Parallel Transfer Learning with Multi-model Feature Fusion and LSTM”  
+  Summary: Developed a hybrid framework combining parallel transfer learning, multi-model feature fusion, and LSTM for gallbladder cancer classification, achieving 99.37% accuracy.
 
 ---
 
-### 📝 **Research Experience**
+### 🔬 **Research Experience**
 
-#### **Research Assistant Intern**  
-**Ulster University**, Londonderry, Northern Ireland, UK  
-**Oct 2024 – Present**  
-- Developed deep learning models for **cervical cancer classification** using **multi-level bi-fusion** and **aggregated-fusion** techniques.
-- Contributed to **3 ongoing research projects** on biomedical image processing, domain adaptation, and AI model benchmarking.
-- Writing manuscripts on **LLM evaluation**, **cancer classification**, and **domain adaptation** for publication in peer-reviewed journals.
+- **Research Assistant Intern**  
+  **Oct 2024 – Current**  
+  **Ulster University**  
+  *Londonderry, Northern Ireland, UK*  
+  - Developed deep learning models for cervical cancer classification using multi-level bi-fusion and aggregated-fusion techniques.  
+  - Writing manuscripts on cancer classification, domain adaptation, and LLM benchmarking for medical image classification.  
+  - Gained expertise in domain adaptation, prompt benchmarking, and evaluating pre-trained models for medical image classification.  
+  - Actively contributing to 3 ongoing research projects in biomedical image processing.
 
-#### **Undergraduate Research Assistant**  
-**Department of Biomedical Engineering, KUET**, Khulna, Bangladesh  
-**Feb 2023 – Sep 2024**  
-- Developed a **hybrid AI framework** for **gallbladder cancer classification** using **transfer learning** and **LSTM**, achieving **99.37% accuracy**.
-- Published a paper titled *“Gallbladder Cancer Classification Using Average Ensemble Learning”* at **ICEEICT 2024**.
-- Currently transforming **undergraduate thesis** research into a **Q1 journal publication**.
+- **Undergraduate Research Assistant**  
+  **Feb 2023 – Sep 2024**  
+  **Department of Biomedical Engineering, KUET**  
+  *Khulna, Bangladesh*  
+  - Developed a hybrid AI framework for gallbladder cancer classification using transfer learning and LSTM (99.37% accuracy).  
+  - Published a conference paper at ICEEICT 2024 on "Gallbladder Cancer Classification Using Average Ensemble Learning."  
+  - Collected and preprocessed gallbladder cancer datasets, utilizing TensorFlow and Keras for developing deep learning models.  
+  - Currently working on transforming thesis research into a Q1 journal publication.
 
 ---
 
 ### 📄 **Publications**
 
 #### **Journals**
-1. **Md. N. Hasan**, **S. B. Shuvo**, et al., *“TransfusionNet: Framework for Cervical Cancer Detection using Deep Learning with Multi-level Bi-Fusion and Aggregated-Fusion,”* *Manuscript Under Review in* **Expert Systems with Applications**.
-2. **Md. A. Sayed**, et al., *“Lung Cancer Diagnosis from Computed Tomography Image Using Automated Region of Interest Cropping, Classification, and Segmentation Architectures,”* *Manuscript in preparation for* **Nature - Scientific Reports**.
-3. **Md. N. Hasan**, **S. B. Shuvo**, et al., *“Zero to Multi-shot Benchmarking for Domain Adaptation in Multi-Cancer Classification: Evaluating LLMs, Pre-Trained Deep Learning Models, and a Proposed Hybrid Approach - DeepNet,”* *Manuscript being prepared for* **Medical Image Analysis Journal**.
-4. **Md. N. Hasan**, **S. B. Shuvo**, et al., *“A Critical Analysis of LLM Performance in Medical Image Classification: Multi-Level Prompt Benchmarking vs. the Proposed Hybrid Framework: MobileCoATNet,”* *Manuscript in Preparation*.
-5. **Md. N. Hasan**, **W. M. Shan**, **T. Joty**, **Md. M. H. Ankon**, **S. B. Shuvo**, et al., *“Unveiling Overfitting Patterns: Explainable AI-Driven Benchmarking of LLMs, Deep Learning Models, and a Hybrid Framework for Medical Image Classification,”* *Manuscript in Preparation*.
+- **Md. N. Hasan**, **S. B. Shuvo**, Md. M. H. Ankon, S. Sarkar, S.M.T.U. Raju, and N. Siddique, “TransfusionNet: Framework for Cervical Cancer Detection using Deep Learning with Multi-level Bi-Fusion and Aggregated-Fusion,” Manuscript Under Review in *Expert Systems with Applications*, Manuscript Number: ESWA-D-25-01339. [Link to Abstract].
+  
+- **Md. A. Sayed**, M. A. Kadir, Md. S. Islam, Md. N. Hossain, J. Park, **S. B. Shuvo**, R. T. Asha, K. N. Hasan, J. Tayef, "Lung Cancer Diagnosis from Computed Tomography Image Using Automated Region of Interest Cropping, Classification and Segmentation Architectures," Manuscript being prepared for *Nature - Scientific Reports*. [Link to Abstract].
+  
+- **Md. N. Hasan**, **S. B. Shuvo**, Md. M. H. Ankon, Md. M. H. Manik, and N. Siddique, “Zero to Multi-shot Benchmarking for Domain Adaptation in Multi-Cancer Classification: Evaluating LLMs, Pre-Trained Deep Learning Models, and a Proposed Hybrid Approach - DeepNet,” Manuscript being prepared for *Medical Image Analysis Journal*.
+
+- **Md. N. Hasan**, I. Ahmad, **S. B. Shuvo**, Md. M. Islam, M. Tehsum, S. Das, and N. Siddique, "A Critical Analysis of LLM Performance in Medical Image Classification: Multi-Level Prompt Benchmarking vs. the Proposed Hybrid Framework: MobileCoATNet," Manuscript in Preparation.
+
+- **Md. N. Hasan**, W. M. Shan, T. Joty, Md. M. H. Ankon, **S. B. Shuvo**, and N. Siddique, "Unveiling Overfitting Patterns: Explainable AI-Driven Benchmarking of LLMs, Deep Learning Models, and a Hybrid Framework for Medical Image Classification," Manuscript in Preparation.
 
 #### **Conferences**
-1. **S. B. Shuvo** and M. Z. Chowdhury, *“Classification of Gallbladder Cancer Using Average Ensemble Learning,”* *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh.
+- **S. B. Shuvo** and M. Z. Chowdhury, "Classification of Gallbladder Cancer Using Average Ensemble Learning," *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh, 2024, pp. 1450-1455, doi: 10.1109/ICEEICT62016.2024.10534480. [Link to PDF].
+
 
 ---
 
 ### 🔨 **Projects**
 
-- **IoT-Based Pilot Health Monitoring System**  
-   Developed an IoT-based health monitoring system for pilots to monitor health metrics and aircraft state using **ESP8266 NodeMCU**, **Arduino**, and **Blynk IoT** platform.
+- **IoT Based Pilot Health Monitoring System**  
+  *May 2018 – May 2020*  
+  Developed an IoT-Based Pilot Health Monitoring System using **ESP8266 NodeMCU**, programmed with **Arduino IDE**, and sensors like **MAX30100**, **DS18B20**, and **BMP180**.  
+  Integrated with the **Blynk IoT** platform to monitor pilot health and aircraft state, enhancing flight safety.
 
-- **MediConnect**  
-   Developed a **secure video conferencing app** for telemedicine, enabling real-time consultations, image sharing, prescriptions, and chats.
+- **MediConnect – A Video Conferencing App for Telemedicine and Healthcare**  
+  *2023*  
+  Developed a secure **video conferencing app** for **telemedicine** as part of the **Telemedicine & Health Care Laboratory** individual project, utilizing **Java**, **Firebase**, and **ZEGOCLOUD** for effective remote healthcare communication.  
+  Implemented features like **sharing medical images**, **prescriptions**, and **real-time chat** to support comprehensive virtual medical consultations.
 
-- **VitaSync**  
-   Designed a **smart band** for telemedicine applications to track **vital signs** such as heart rate and oxygen levels, with real-time transmission to mobile apps.
-
-- **Telechroma**  
-   Created an **affordable colorimetric analyzer** for remote diagnostics of glucose concentrations in urine samples, using **Arduino Nano** and a mobile app.
+- **VitaSync: A Smart Band for Telemedicine Applications**  
+  *2023*  
+  Remodeled a wearable device for the **Telemedicine & Health Care Laboratory** group project, integrating **sensors** to track vital metrics such as **heart rate**, **body temperature**, and **blood oxygen levels**.  
+  Developed a **real-time data transmission system** with a mobile app and an **alert mechanism** to notify users and contacts of health irregularities via email.
 
 - **Brain Tumor Segmentation using MATLAB**  
-   Conducted **brain tumor segmentation** using **morphological operations** on medical images in MATLAB.
+  *2022*  
+  Conducted **brain tumor segmentation** using **morphological operations** on grayscale images in **MATLAB** as part of a **Biomedical Image Processing Laboratory** individual project.  
 
-- **Telechroma: A Smart Colorimetric Analyzer**  
-   Developed a **portable colorimetric analyzer** for telemedicine applications, enabling remote diagnostics for **glucose concentrations**.
+- **Telechroma: A Smart Colorimetric Analyzer for Telemedicine Applications**  
+  *2022*  
+  Developed **Telechroma**, a portable and affordable **colorimetric analyzer** for telemedicine applications, enabling remote diagnostics of **glucose concentrations** in **urine samples**.  
+  Integrated hardware (**Arduino Nano**, **TCS3200 sensor**) with a **mobile app** for real-time data transmission and analysis.
+
+- **Sanitary Napkin Vending Machine**  
+  *2022*  
+  Designed and built an automated **Sanitary Napkin Vending Machine** using **RFID**, **Arduino Mega**, stepper motors, and springs to promote menstrual hygiene through accessible and affordable technology.  
+  Constructed the project at **FabLab KUET** for the **Intra-University Innovative Idea & Project Competition 2022**, securing **2nd Runner-Up**.
+
 
 ---
 
@@ -171,11 +187,11 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en&theme=dark)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
 
 ---
 
