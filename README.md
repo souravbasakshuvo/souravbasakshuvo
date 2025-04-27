@@ -167,6 +167,7 @@ To work in an energetic environment where I can leverage my various skills in **
 
 ---
 
+
 ### 📚 **Research Contributions and Future Vision**
 
 I am deeply committed to leveraging **artificial intelligence** and **deep learning** to **transform healthcare**. My current focus is on **cancer detection** and improving diagnostic tools using **AI-based medical imaging systems**. I aim to continue exploring **domain adaptation**, **multi-modal image analysis**, and **deep learning frameworks** to develop **robust AI solutions** that can significantly reduce diagnosis time and increase accuracy in **clinical settings**.
