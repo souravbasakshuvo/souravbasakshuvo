@@ -257,13 +257,14 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
-
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo)
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&hide_title=true&count_private=true&hide=prs,issues)
+
+<!-- GitHub Trophies -->
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Contribution Graph -->
 <!--![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo)-->
