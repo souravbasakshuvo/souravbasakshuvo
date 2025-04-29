@@ -2,6 +2,7 @@
 
 **Biomedical Engineer | Research Assistant | AI & Medical Imaging Enthusiast**
 
+<!-- Profile Views -->
 [![Profile Views](https://komarev.com/ghpvc/?username=souravbasakshuvo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/souravbasakshuvo)
 
 ---
@@ -163,7 +164,7 @@ Score: 313 (Quantitative 165, Verbal 148), AWA 3.5
 - **Diploma in Computer Science**  
   *October 2015 - March 2016*  
   - Successfully completed a 6-month diploma (Grade: A+) from the Center for Computer Training & Technology under the World Information Technology Foundation, covering computer fundamentals, graphic design, AutoCAD, hardware maintenance, and web development. 
-- Learnt basics of graphic design, AutoCAD, hardware maintenance, and web development.
+  - Learnt basics of graphic design, AutoCAD, hardware maintenance, and web development.
 
 ---
 
@@ -254,21 +255,18 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo)
 
 <!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Contribution Graph -->
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo&theme=react-dark)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=souravbasakshuvo)
+![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo)
 
 ---
 ### 🌐 **Connect with Me**
