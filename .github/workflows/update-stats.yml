@@ -1,0 +1,32 @@
+
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run the update once every day at midnight UTC
+  workflow_dispatch:  # Allows you to manually trigger the action as well
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update stats in README.md
+      run: |
+        # Generate a dynamic random number based on current timestamp
+        random_number=$(date +%s)
+        
+        # Update the random value in README.md
+        sed -i "s/random=[0-9]*/random=$random_number/" README.md
+        
+        # Configure Git
+        git config --global user.name "souravbasakshuvo"
+        git config --global user.email "shuvo1815010@stud.kuet.ac.bd"
+        
+        # Commit and push changes
+        git add README.md
+        git commit -m "Update GitHub Stats with new random value"
+        git push
