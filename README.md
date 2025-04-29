@@ -255,19 +255,18 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=souravbasakshuvo&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en&theme=dark)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en)
 
 <!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo)
 
 <!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo&bg_color=000000&color=ffffff&line=ff0000)
-
+<!--![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo)-->
 
 ---
 ### 🌐 **Connect with Me**
