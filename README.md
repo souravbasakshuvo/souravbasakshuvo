@@ -255,7 +255,7 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact&random=1746061669)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact&langs_count=14&random=1746061670)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&random=1746061669)
