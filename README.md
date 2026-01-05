@@ -167,6 +167,12 @@ Score: 313 (Quantitative 165, Verbal 148), AWA 3.5
 
 ### 🧑‍🏫 **Training**
 
+- **4-Day Training on Computer-Aided Drug Design: A to Z with Project**
+  *May 2025*
+  *Dawn of Bioinformatics Limited*
+  - Prepared proteins and ligands (BIOVIA Discovery Studio, OpenBabel, Swiss-PdbViewer), executed docking in PyRx, interpreted binding poses and scores, and evaluated drug-likeness while assessing ADME/Toxicity.  
+  - Ran molecular dynamics in YASARA and GROMACS (including protein–ligand simulations), processed trajectories and performed PCA to characterize conformational changes, analyzed results in Minitab, visualized structures in PyMOL, and applied the full CADD pipeline in a capstone mini-project.
+
 - **Full-day Technical Workshop on Biomaterials Based Wet Lab**  
   *August 2022*  
   *Bangladesh University of Engineering and Technology*  
