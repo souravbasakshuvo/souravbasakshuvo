@@ -42,19 +42,6 @@ To work in an energetic environment where I can leverage my various skills in **
 
 ---
 
-### 🎓 **EDUCATION**
-
-* **Khulna University of Engineering and Technology**
-* **Bachelor of Science in Biomedical Engineering**
-* **Khulna, Bangladesh**
-* **November 11, 2018-February 27, 2024**
-* CGPA: 3.77/4.00 (80.60%) [Junior/Senior GPA: 3.80] (Ranked 5th in overall merit position)
-* Evaluated by Educational Credential Evaluators (ECE) on December 30, 2024
-* U.S. Equivalence: Bachelor Degree; Major Area of Study: Biomedical Engineering, Grade Average: 3.91/4.00
-* UG Thesis: "Gallbladder Cancer Classification using Parallel Transfer Learning with Multi-model Feature Fusion and LSTM"
-* Summary: Developed a hybrid framework combining parallel transfer learning, multi-model feature fusion, and LSTM for gallbladder cancer classification, achieving 99.37% accuracy.
-
----
 
 ### 🔬 **Research Experience**
 
@@ -114,6 +101,30 @@ To work in an energetic environment where I can leverage my various skills in **
 #### **Conferences**
 - **S. B. Shuvo** and M. Z. Chowdhury, "Classification of Gallbladder Cancer Using Average Ensemble Learning," *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh, 2024, pp. 1450-1455, doi: 10.1109/ICEEICT62016.2024.10534480. [Link to PDF].
 
+---
+
+#### **Peer-Reviewed Journal Articles**
+
+- **Published:**
+  - M. N. Hasan, S. B. Shuvo, M. M. H. Ankon, S. M. T. U. Raju, and N. Siddique, "TransfusionNet: Framework for cervical cancer detection using deep learning with multi-level fusion", Results in Engineering, vol. 28, p. 107174, 2025, doi: 10.1016/j.rineng.2025.107174.
+
+- **Under Review/In Preparation:**
+  - M. N. Hasan, I. Ahmad, S. B. Shuvo, M. M. H. Ankon, S. Das, N. Siddique, and H. Wang, "DL3M: A Vision-to-Language Framework for Expert-Level Medical Reasoning through Deep Learning and Large Language Models," arXiv preprint arXiv:2512.13742, 2025. Under review in Medical Image Analysis, Elsevier.
+  - S. B. Shuvo, S. A. Redhila, S. Hossain, and A. D. Roy, "NeuroSwin: A Swin Transformer-GRU Model for Parkinson's Disease Classification and Brain Region Localization from EEG Signals," Manuscript in preparation for Biomedical Signal Processing and Control, Elsevier.
+  - S. B. Shuvo, M. M. H. Ankon, M. A. Sayed, M. N. Hasan, and M. Z. Chowdhury, "CholeNet: A Recurrent-Convolutional Hybrid Ensemble Framework with Quad-Fold Parallel Transfer Learning and Spatio-Sequential Feature Fusion for Gallbladder Cancer Classification," Manuscript in preparation for Expert Systems with Applications, Elsevier.
+  - M. M. H. Ankon, S. B. Shuvo, M. N. Hasan, and M. M. H. Manik, "VRX-UNet: Automated Volumetric Characterization of Intra-tumoral Structures in Gliomas using 3D Segmentation," Manuscript under review in Computers in Biology and Medicine, Elsevier.
+  - M. A. Sayed, M. A. Rahman, S. B. Shuvo, M. J. Hossain, M. S. Alam, K. N. Hasan, and M. A. Kadir, "Advanced image analysis for liver tumor detection and visualization in CT images using automated segmentation," Manuscript in preparation for Nature - Scientific Reports.
+  - M. N. Hasan, M. M. H. Ankon, S. B. Shuvo, I. Ahmad, M. M. H. Manik, and N. Siddique, "Zero-to-Multi-Shot Benchmarking of Model-Agnostic Meta-Learning (MAML)-Based Domain Adaptation for Multi-Cancer Classification: Comparative Evaluation of LLMS, State-of-the-Art Deep Learning Models, and a Proposed Hybrid Approach," Ongoing Research.
+  - Md. N. Hasan, W. M. Shan, T. Joty, Md. M. H. Ankon, S. B. Shuvo, and N. Siddique, "Unveiling Overfitting Patterns: Explainable AI-Driven Benchmarking of LLMs, Deep Learning Models, and a Hybrid Framework for Medical Image Classification," Ongoing Research.
+
+#### **Peer-Reviewed Conference Proceedings**
+
+- **Published/Accepted:**
+  - S. B. Shuvo and M. Z. Chowdhury, "Classification of Gallbladder Cancer Using Average Ensemble Learning," 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh, 2024, pp. 1450-1455, doi: 10.1109/ICEEICT62016.2024.10534480.
+  - S. B. Shuvo, S. Hossain, S. A. Redhila, and U. Bose, "Exploring Common Molecular Interactions across Multiple Cancers to Identify Potential Therapeutic Targets and Drug Candidates," presented at 2025 7th International Conference on Electrical Information and Communication Technology (EICT), Dhaka, Bangladesh.
+
+- **Under Review:**
+  - Md. A. Sayed, A. Rahman, S. B. Shuvo, M. A. Kadir, Md. I. A. Imran, Md. S. I. Wadud, and Md. N. Hossain, "Automated PET to Fused PET-CT Mapping Using PatchGAN for Lung Cancer Diagnosis," Submitted in 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking, Chattogram, Bangladesh.
 
 ---
 
