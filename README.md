@@ -24,7 +24,7 @@ To work in an energetic environment where I can leverage my various skills in **
 
 ### 🧠 **Research Interests**
 
-- **Medical Image Processing**, **Segmentation**, **3D Reconstruction**, **Domain Adaptation**, **Federated Learning**, **MRI Reconstruction**, **Multi-modal Image Analysis**, **Computational Imaging**, **Machine Learning**, **Deep Learning**, **Disease Detection**, **Signal Processing**, **Bioinformatics**
+- **Neuroengineering**, **Medical Image Processing**, **Segmentation**, **3D Reconstruction**, **Domain Adaptation**, **Federated Learning**, **MRI Reconstruction**, **Multi-modal Image Analysis**, **Computational Imaging**, **Machine Learning**, **Deep Learning**, **Disease Detection**, **Signal Processing**, **Bioinformatics**
 
 ---
 
@@ -42,16 +42,36 @@ To work in an energetic environment where I can leverage my various skills in **
 
 ---
 
+### 🎓 **EDUCATION**
+
+* **Khulna University of Engineering and Technology**
+* **Bachelor of Science in Biomedical Engineering**
+* **Khulna, Bangladesh**
+* **November 11, 2018-February 27, 2024**
+* CGPA: 3.77/4.00 (80.60%) [Junior/Senior GPA: 3.80] (Ranked 5th in overall merit position)
+* Evaluated by Educational Credential Evaluators (ECE) on December 30, 2024
+* U.S. Equivalence: Bachelor Degree; Major Area of Study: Biomedical Engineering, Grade Average: 3.91/4.00
+* UG Thesis: "Gallbladder Cancer Classification using Parallel Transfer Learning with Multi-model Feature Fusion and LSTM"
+* Summary: Developed a hybrid framework combining parallel transfer learning, multi-model feature fusion, and LSTM for gallbladder cancer classification, achieving 99.37% accuracy.
+
+---
+
 ### 🔬 **Research Experience**
+
+- **Researcher**
+  **June 2025- Current**
+  **Bio-Neural Intelligence and Research Advancement Lab, KUET**
+  *Khulna, Bangladesh*
+  - Designed NeuroSwin, a hybrid deep learning model (Swin Transformer-GRU), to classify Parkinson's Disease and identify its source regions in the brain from EEG signals.
 
 - **Research Assistant Intern**  
   **Oct 2024 – Current**  
   **Ulster University**  
   *Londonderry, Northern Ireland, UK*  
-  - Developed deep learning models for cervical cancer classification using multi-level bi-fusion and aggregated-fusion techniques.  
-  - Writing manuscripts on cancer classification, domain adaptation, and LLM benchmarking for medical image classification.  
-  - Gained expertise in domain adaptation, prompt benchmarking, and evaluating pre-trained models for medical image classification.  
-  - Actively contributing to 3 ongoing research projects in biomedical image processing.
+  - Developed TransfusionNet, a hybrid architecture augmented with a specialized preprocessing pipeline and an earlylayer feature fusion paradigm for cervical cancer detection. This work has been published in the Q1 journal Results in Engineering (Elsevier, Impact Factor: 7.9).
+  - Created a benchmark to evaluate the performance of large language models (LLMs) in identifying disease classes, comparing results against our proposed architecture MobileCoAtNet for stomach infection classification.
+  - Investigated the adaptability of foundational AI models for multi-cancer classification, implementing Model-Agnostic Meta-Learning (MAML) for domain adaptation to enhance generalizability.
+  - Actively researching the feasibility of large language models (LLMs) for disease diagnosis, reasoning, and treatment follow-up in medical applications.
 
 - **Undergraduate Research Assistant**  
   **Feb 2023 – Sep 2024**  
@@ -61,6 +81,7 @@ To work in an energetic environment where I can leverage my various skills in **
   - Published a conference paper at ICEEICT 2024 on "Gallbladder Cancer Classification Using Average Ensemble Learning."  
   - Collected and preprocessed gallbladder cancer datasets, utilizing TensorFlow and Keras for developing deep learning models.  
   - Currently working on transforming thesis research into a Q1 journal publication.
+  - Gained experience in academic writing, literature review, and presenting research findings.
 
 ---
 
@@ -82,7 +103,7 @@ To work in an energetic environment where I can leverage my various skills in **
 #### **Journals**
 - Md. N. Hasan, **S. B. Shuvo**, Md. M. H. Ankon, S. Sarkar, S.M.T.U. Raju, and N. Siddique, “TransfusionNet: Framework for Cervical Cancer Detection using Deep Learning with Multi-level Bi-Fusion and Aggregated-Fusion,” Manuscript Under Review in *Expert Systems with Applications*, Manuscript Number: ESWA-D-25-01339. [Link to Abstract].
   
-- Md. A. Sayed, M. A. Kadir, Md. S. Islam, **S. B. Shuvo**, Md. N. Hossain, J. Park, R. T. Asha, K. N. Hasan, "Lung Cancer Diagnosis from Computed Tomography Image Using Automated Region of Interest Cropping, Classification and Segmentation Architectures," Manuscript being prepared for *Nature - Scientific Reports*. [Link to Abstract].
+- Md. A. Sayed, M. A. Kadir, Md. S. Islam, **S. B. Shuvo**, Md. N. Hossain, J. Park, R. T. Asha, K. N. Hasan, "Lung Cancer Diagnosis from Computed Tomography Image Using Automated Region of Interest Cropping, Classification and Segmentation Architectures," Manuscript being prepared for *Nature - Scientific Reports*.
   
 - Md. N. Hasan, **S. B. Shuvo**, Md. M. H. Ankon, Md. M. H. Manik, and N. Siddique, “Zero to Multi-shot Benchmarking for Domain Adaptation in Multi-Cancer Classification: Evaluating LLMs, Pre-Trained Deep Learning Models, and a Proposed Hybrid Approach - DeepNet,” Manuscript being prepared for *Medical Image Analysis Journal*.
 
