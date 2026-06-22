@@ -277,16 +277,16 @@ My future research will delve into enhancing **biomedical data interoperability*
 
 ### 📊 **GitHub Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact&langs_count=14&random=1782010608)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbasakshuvo&layout=compact&langs_count=14&random=1782098826)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&random=1782010608)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravbasakshuvo&random=1782098826)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en&random=1782010608)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&locale=en&random=1782098826)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbasakshuvo&show_icons=true&hide_title=true&count_private=true&hide=prs,issues)-->
 
 <!-- GitHub Trophies -->
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo&random=1782010608)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=souravbasakshuvo&random=1782098826)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Contribution Graph -->
 <!--![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=souravbasakshuvo)-->
